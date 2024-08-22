@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "wOmVTQHm8PY=",
+  "dgSpecHash": "lU5fTb2OurA=",
   "success": true,
   "projectFilePath": "S:\\WebChat\\Chat\\Chat_Comunicacao\\Chat_Comunicacao.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.8\\microsoft.aspnetcore.connections.abstractions.8.0.8.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\8.0.8\\microsoft.aspnetcore.signalr.common.8.0.8.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\8.0.8\\microsoft.aspnetcore.signalr.protocols.json.8.0.8.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.extensions.features\\8.0.8\\microsoft.extensions.features.8.0.8.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
