@@ -29,3 +29,17 @@ S:\WebChat\Chat\Chat_Api\obj\Debug\net8.0\refint\Chat_Api.dll
 S:\WebChat\Chat\Chat_Api\obj\Debug\net8.0\Chat_Api.pdb
 S:\WebChat\Chat\Chat_Api\obj\Debug\net8.0\Chat_Api.genruntimeconfig.cache
 S:\WebChat\Chat\Chat_Api\obj\Debug\net8.0\ref\Chat_Api.dll
+S:\WebChat\Chat\Chat_Api\obj\Debug\net8.0\Chat_Api.csproj.AssemblyReference.cache
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Chat_Comunicacao.dll
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Chat_Db.dll
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Chat_Modelos.dll
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Chat_Comunicacao.pdb
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Chat_Db.pdb
+S:\WebChat\Chat\Chat_Api\bin\Debug\net8.0\Chat_Modelos.pdb
+S:\WebChat\Chat\Chat_Api\obj\Debug\net8.0\Chat_Api.csproj.Up2Date

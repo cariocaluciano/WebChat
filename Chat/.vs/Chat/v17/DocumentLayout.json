@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "S:\\WebChat\\Chat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{327EFA1A-1762-4152-8783-9E65A7143505}|Chat_Comunicacao\\Chat_Comunicacao.csproj|s:\\webchat\\chat\\chat_comunicacao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{327EFA1A-1762-4152-8783-9E65A7143505}|Chat_Comunicacao\\Chat_Comunicacao.csproj|solutionrelative:chat_comunicacao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8BE794D-49DE-43FF-AB6E-3C2D447808DD}|Chat_Api\\Chat_Api.csproj|s:\\webchat\\chat\\chat_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BE794D-49DE-43FF-AB6E-3C2D447808DD}|Chat_Api\\Chat_Api.csproj|solutionrelative:chat_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BE794D-49DE-43FF-AB6E-3C2D447808DD}|Chat_Api\\Chat_Api.csproj|s:\\webchat\\chat\\chat_api\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8BE794D-49DE-43FF-AB6E-3C2D447808DD}|Chat_Api\\Chat_Api.csproj|solutionrelative:chat_api\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BE794D-49DE-43FF-AB6E-3C2D447808DD}|Chat_Api\\Chat_Api.csproj|s:\\webchat\\chat\\chat_api\\chat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BE794D-49DE-43FF-AB6E-3C2D447808DD}|Chat_Api\\Chat_Api.csproj|solutionrelative:chat_api\\chat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "S:\\WebChat\\Chat\\Chat_Comunicacao\\Class1.cs",
-              "RelativeDocumentMoniker": "Chat_Comunicacao\\Class1.cs",
-              "ToolTip": "S:\\WebChat\\Chat\\Chat_Comunicacao\\Class1.cs",
-              "RelativeToolTip": "Chat_Comunicacao\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "S:\\WebChat\\Chat\\Chat_Api\\Chat\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Chat_Api\\Chat\\ChatHub.cs",
+              "ToolTip": "S:\\WebChat\\Chat\\Chat_Api\\Chat\\ChatHub.cs",
+              "RelativeToolTip": "Chat_Api\\Chat\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T13:05:32.034Z",
+              "WhenOpened": "2024-08-22T13:52:02.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\WebChat\\Chat\\Chat_Api\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Chat_Api\\Pages\\Index.cshtml",
+              "ToolTip": "S:\\WebChat\\Chat\\Chat_Api\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Chat_Api\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T13:43:26.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\WebChat\\Chat\\Chat_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Chat_Api\\Program.cs",
+              "ToolTip": "S:\\WebChat\\Chat\\Chat_Api\\Program.cs",
+              "RelativeToolTip": "Chat_Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:40:06.318Z",
               "EditorCaption": ""
             }
           ]

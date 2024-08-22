@@ -1,0 +1,12 @@
+S:\WebChat\Chat\Chat_Modelos\bin\Debug\net8.0\Chat_Modelos.deps.json
+S:\WebChat\Chat\Chat_Modelos\bin\Debug\net8.0\Chat_Modelos.dll
+S:\WebChat\Chat\Chat_Modelos\bin\Debug\net8.0\Chat_Modelos.pdb
+S:\WebChat\Chat\Chat_Modelos\obj\Debug\net8.0\Chat_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+S:\WebChat\Chat\Chat_Modelos\obj\Debug\net8.0\Chat_Modelos.AssemblyInfoInputs.cache
+S:\WebChat\Chat\Chat_Modelos\obj\Debug\net8.0\Chat_Modelos.AssemblyInfo.cs
+S:\WebChat\Chat\Chat_Modelos\obj\Debug\net8.0\Chat_Modelos.csproj.CoreCompileInputs.cache
+S:\WebChat\Chat\Chat_Modelos\obj\Debug\net8.0\Chat_Modelos.sourcelink.json
+S:\WebChat\Chat\Chat_Modelos\obj\Debug\net8.0\Chat_Modelos.dll
+S:\WebChat\Chat\Chat_Modelos\obj\Debug\net8.0\refint\Chat_Modelos.dll
+S:\WebChat\Chat\Chat_Modelos\obj\Debug\net8.0\Chat_Modelos.pdb
+S:\WebChat\Chat\Chat_Modelos\obj\Debug\net8.0\ref\Chat_Modelos.dll

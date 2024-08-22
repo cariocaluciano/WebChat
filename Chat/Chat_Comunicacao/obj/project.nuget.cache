@@ -1,17 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "lU5fTb2OurA=",
+  "dgSpecHash": "p8tdRqosqCU=",
   "success": true,
   "projectFilePath": "S:\\WebChat\\Chat\\Chat_Comunicacao\\Chat_Comunicacao.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\cario\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.8\\microsoft.aspnetcore.connections.abstractions.8.0.8.nupkg.sha512",
     "C:\\Users\\cario\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\8.0.8\\microsoft.aspnetcore.signalr.common.8.0.8.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.aspnetcore.signalr.core\\1.1.0\\microsoft.aspnetcore.signalr.core.1.1.0.nupkg.sha512",
     "C:\\Users\\cario\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\8.0.8\\microsoft.aspnetcore.signalr.protocols.json.8.0.8.nupkg.sha512",
     "C:\\Users\\cario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\cario\\.nuget\\packages\\microsoft.extensions.features\\8.0.8\\microsoft.extensions.features.8.0.8.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\cario\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\cario\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "C:\\Users\\cario\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.threading.channels\\4.5.0\\system.threading.channels.4.5.0.nupkg.sha512",
+    "C:\\Users\\cario\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
