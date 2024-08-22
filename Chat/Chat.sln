@@ -4,12 +4,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat_Api", "Chat_Api\Chat_Api.csproj", "{C8BE794D-49DE-43FF-AB6E-3C2D447808DD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4914C58B-AF74-497B-85B3-11E96CC9444A} = {4914C58B-AF74-497B-85B3-11E96CC9444A}
+		{CBAD4F90-312A-48F0-AF3C-448155EF99B8} = {CBAD4F90-312A-48F0-AF3C-448155EF99B8}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat_Db", "Chat_Db\Chat_Db.csproj", "{4914C58B-AF74-497B-85B3-11E96CC9444A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat_Modelos", "Chat_Modelos\Chat_Modelos.csproj", "{CBAD4F90-312A-48F0-AF3C-448155EF99B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat_Modelos", "Chat_Modelos\Chat_Modelos.csproj", "{CBAD4F90-312A-48F0-AF3C-448155EF99B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat_Web", "Chat_Web\Chat_Web\Chat_Web.csproj", "{F3520CAA-ADF4-4599-A16D-49F0380D1DCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat_Web", "Chat_Web\Chat_Web\Chat_Web.csproj", "{F3520CAA-ADF4-4599-A16D-49F0380D1DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat_Comunicacao", "Chat_Comunicacao\Chat_Comunicacao.csproj", "{327EFA1A-1762-4152-8783-9E65A7143505}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,10 @@ Global
 		{F3520CAA-ADF4-4599-A16D-49F0380D1DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3520CAA-ADF4-4599-A16D-49F0380D1DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3520CAA-ADF4-4599-A16D-49F0380D1DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327EFA1A-1762-4152-8783-9E65A7143505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327EFA1A-1762-4152-8783-9E65A7143505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327EFA1A-1762-4152-8783-9E65A7143505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327EFA1A-1762-4152-8783-9E65A7143505}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
