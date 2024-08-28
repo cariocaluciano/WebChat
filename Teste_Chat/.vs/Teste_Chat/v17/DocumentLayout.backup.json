@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\WebChat\\Teste_Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\chat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\chat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\models\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\models\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|s:\\webchat\\teste_chat\\api_login\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D174B4-9E5F-45B3-A851-B7E3F69159C9}|Api_Login\\Api_Login.csproj|solutionrelative:api_login\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 381,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Program.cs",
+              "RelativeDocumentMoniker": "Api_Login\\Program.cs",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Program.cs",
+              "RelativeToolTip": "Api_Login\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T17:04:34.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Api_Login\\Controllers\\HomeController.cs",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Api_Login\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:56:33.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Api_Login\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Api_Login\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAuwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T16:49:24.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contatos.cs",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Models\\Contatos.cs",
+              "RelativeDocumentMoniker": "Api_Login\\Models\\Contatos.cs",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Models\\Contatos.cs",
+              "RelativeToolTip": "Api_Login\\Models\\Contatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:37:00.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Api_Login\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Api_Login\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:36:15.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Api_Login\\Views\\Home\\Index.cshtml",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Api_Login\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:56:25.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Chat\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Api_Login\\Chat\\ChatHub.cs",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Chat\\ChatHub.cs",
+              "RelativeToolTip": "Api_Login\\Chat\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:55:26.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Api_Login\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Api_Login\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:41:19.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Api_Login\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Api_Login\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:40:44.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Api_Login\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Api_Login\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:35:25.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Api_Login\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Api_Login\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:26:20.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Api_Login\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Api_Login\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:26:18.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Api_Login\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Api_Login\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:26:16.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "S:\\WebChat\\Teste_Chat\\Api_Login\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Api_Login\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "S:\\WebChat\\Teste_Chat\\Api_Login\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Api_Login\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:26:14.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

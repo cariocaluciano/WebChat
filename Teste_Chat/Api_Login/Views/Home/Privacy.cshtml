@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Contatos>
+@{
+    ViewData["Title"] = "Contatos";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contato in Model)
+        {
+            <tr>
+                <td>@contato.Id</td>
+                <td>@contato.Nome</td>
+                <td>@contato.Email</td>
+                <td>
+                    <button type="button" class="btn btn-primary" 
+                            onclick="iniciarChat('@contato.Nome', '@contato.Email')">
+                        Iniciar Chat
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.7/signalr.min.js"></script>
+<script>
+    function iniciarChat(nome, email) {
+        // Salva os valores do nome e do e-mail em variáveis
+        var nomeContato = nome;
+        var emailContato = email;
+
+        // Exemplo de ação: Exibir em um alerta (ou realizar outras ações necessárias)
+        alert("Iniciando chat com: " + nomeContato + " (" + emailContato + ")");
+
+        // const connection = new signalR.HubConnectionBuilder()
+        //     .withUrl("/chatHub")
+        //     .build();
+
+        // connection.start().catch(err => console.error(err.toString()));
+
+        // let roomName = "teste";
+        // connection.invoke("JoinRoom", roomName).catch(err => console.error(err.toString()));
+
+        // window.location.href = `https://localhost:7173`
+
+    }
+    // const connection = new signalR.HubConnectionBuilder()
+    //     .withUrl("/chathub")
+    //     .build();
+
+    // connection.on("RoomCreated", function (roomName) {
+    // });
+
+    // connection.start().then(function () {
+    //     document.getElementById("iniciarChatButton").addEventListener("click", function () {
+    //         const roomName = "Chat_" + Date.now();
+    //         const hostEmail = "luciano@teste.com";
+    //         const inviteeEmail = "outroUsuario@teste.com";
+
+    //         connection.invoke("CreateRoomAndInviteUser", roomName, hostEmail, inviteeEmail).catch(function (err) {
+    //             return console.error(err.toString());
+    //         });
+    //     });
+    // });
+
+    // window.location.href = `https://localhost:7173`
+</script>
